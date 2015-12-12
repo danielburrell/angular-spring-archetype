@@ -125,6 +125,6 @@
         <url>https://github.com/danielburrell/angular-spring-archetype</url>
         <connection>scm:git:git://github.com/danielburrell/angular-spring-archetype.git</connection>
         <developerConnection>scm:git:git@github.com:danielburrell/angular-spring-archetype.git</developerConnection>
-        <tag>angular-spring-archetype-0.0.1-SNAPSHOT</tag>
+        <tag>HEAD</tag>
     </scm>
 </project>
