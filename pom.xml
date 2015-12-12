@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>uk.co.solong</groupId>
     <artifactId>angular-spring-archetype</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>Angular Archetype</name>
     <url>www.solong.co.uk/angular-spring-archetype</url>
     <description>So Long archetype for RESTful spring services with an AngularJS frontend. Includes debian deployment</description>
@@ -125,6 +125,6 @@
         <url>https://github.com/danielburrell/angular-spring-archetype</url>
         <connection>scm:git:git://github.com/danielburrell/angular-spring-archetype.git</connection>
         <developerConnection>scm:git:git@github.com:danielburrell/angular-spring-archetype.git</developerConnection>
-        <tag>angular-spring-archetype-0.0.1</tag>
+        <tag>angular-spring-archetype-0.0.1-SNAPSHOT</tag>
     </scm>
 </project>
